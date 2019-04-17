@@ -10,3 +10,7 @@ Many programming tutorials exist on the internet today, but *Why's Poignant Guid
 ### [A Simple Swift Value Semantics Reference](reference-guide.md)
 
 This guide aims to inform people on the subject of Value Semantics, a core principle of the Swift programming language through a very simple reference guide. It helps readers identify when something is value semantic, and provides information on utilizing the copy on write optimization for value semantic data types.
+
+### [Learning From the Machine](explainer-article.md)
+
+An article on the landmark victories of DeepMind's AlphaStar against The Little One and MaNa, two professional Starcraft II players. It discusses the importance of these victories, the technology behind AlphaStar, and the implications of these technologies for both eSports athletes, and the rest of the world.
