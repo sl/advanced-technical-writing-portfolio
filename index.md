@@ -1,3 +1,5 @@
+# Sam Lazarus - Writing Portfolio
+
 ## List of Works
 
 ### [A Discursive Analysis of Why's Poignant Guide to Ruby](discursive-analysis.md)
