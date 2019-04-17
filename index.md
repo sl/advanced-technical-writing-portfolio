@@ -1,4 +1,5 @@
-# Sam Lazarus - Writing Portfolio
+# Writing Portfolio
+### Sam Lazarus
 
 ## List of Works
 
