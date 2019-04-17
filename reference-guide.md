@@ -78,7 +78,7 @@ Here, we create a box for the car which all copies of the Car can hold on to. Wh
 ## Creating a Copy on Write Wrapper
 You can also genericize this to create a wrapper that allows any value semantic data type to leverage the copy on write optimization as follows:
 
-```
+```swift
 struct CopyOnWrite<ValueType> {
   final class Ref<ValueType> {
     var value: Value
