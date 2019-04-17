@@ -1,5 +1,4 @@
 # Writing Portfolio
-### Sam Lazarus
 
 ## List of Works
 
@@ -14,3 +13,10 @@ This guide aims to inform people on the subject of Value Semantics, a core princ
 ### [Learning From the Machine](explainer-article.md)
 
 An article on the landmark victories of DeepMind's AlphaStar against The Little One and MaNa, two professional Starcraft II players. It discusses the importance of these victories, the technology behind AlphaStar, and the implications of these technologies for both eSports athletes, and the rest of the world.
+
+### [Selecting a Modern Type System](literature-review.md)
+
+A review of existing literature on modern refinement typing systems. I outline the approaches being considered for refining types further than
+what is possible with a standard algebraic type system. Additionally, I
+recommend a strategy for deciding which refinement typing system best
+suits your needs based on the requirements for your project.
